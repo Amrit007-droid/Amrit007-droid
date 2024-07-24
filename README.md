@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/84/02/6f/84026f7f3873011907c028e10d3ca483.jpg" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Amrit Pratim Saikia</h1>
